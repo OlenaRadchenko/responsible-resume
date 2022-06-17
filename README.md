@@ -1,1 +1,1 @@
-# responsible-resume
+# responsive-design-resume
